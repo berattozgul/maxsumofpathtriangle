@@ -2,7 +2,7 @@
 ### Question 1
 
 ------------
-
+You will have a triangle input below and you need to find the maximum sum of the numbers according to given rules below;
 
 1. You will start from the top and move downwards to an adjacent number as in below.
 2. You are only allowed to walk downwards and diagonally.
